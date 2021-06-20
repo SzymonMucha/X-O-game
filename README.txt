@@ -7,3 +7,4 @@ które pozostały. Potem jako gracz wpisujemy swoją pozycję, potem komputer lo
 
 Momentami pewnie jest to okropnie napisany kod (np. zmienne publiczne). Sama jakość gry też pozostawia wiele do życzenia.
 Ale i tak myślę, że było to fajne ćwiczenie.
+
